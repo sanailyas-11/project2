@@ -23,7 +23,7 @@ class App extends Component {
 
   render() {
     var user={
-      name:'mahi', 
+      name:'mahjabeen', 
       hobbies:['sports','reading']
     };
     return (
